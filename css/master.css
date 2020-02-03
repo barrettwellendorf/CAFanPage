@@ -1,0 +1,97 @@
+body {
+margin: 0px;
+padding: 0px;
+}
+
+.camain-heading {
+  text-align: center;
+  font-size: 50px;
+  color: #e6b800;
+  font-family: '8BITWONDERNominal';
+  font-weight: normal;
+  font-style: normal;
+  background: linear-gradient(
+                       rgba(20,20,20, .6),
+                       rgba(20,20,20, .6)),
+                       url("/images/Palmwave.gif")
+}
+
+.casandiego-heading {
+  text-align: center;
+  font-family: 'Zhi Mang Xing', cursive;
+  color: #ff884d;
+  font-size: 30px;
+  background: linear-gradient(
+                       rgba(20,20,20, .3),
+                       rgba(20,20,20, .3)),
+                       url("/images/Waves.gif");
+}
+
+.calosangeles-heading {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  color: #ffffcc;
+  font-size: 30px;
+  height: auto;
+  background: linear-gradient(
+                       rgba(20,20,20, .4),
+                       rgba(20,20,20, .4)),
+                       url("/images/Sunsetpalms.gif");
+}
+
+.casf-heading {
+  text-align: center;
+  font-family: 'Teko', sans-serif;
+  color: #ffd24d;
+  font-size: 30px;
+  background: linear-gradient(
+                       rgba(20,20,20, .5),
+                       rgba(20,20,20, .5)),
+                       url("/images/SFFog.gif")
+}
+
+.fixed-position {
+  position:fixed;
+  width:100px;
+  height:100px;
+  background:#e6b800;
+  top:250px;
+  font-family: '8BITWONDERNominal';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  color: #600080;
+}
+
+.fixed-position2 {
+  position:fixed;
+  width:100px;
+  height:100px;
+  background:#ecb3ff;
+  top:100px;
+  font-family: '8BITWONDERNominal';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  color: #600080;
+}
+
+.flag {
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: '8BITWONDERNominal';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 25px;
+  color: #e6b800;
+}
+
+.attraction {
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 35px;
+}
