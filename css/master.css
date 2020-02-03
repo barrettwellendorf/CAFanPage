@@ -10,10 +10,7 @@ padding: 0px;
   font-family: '8BITWONDERNominal';
   font-weight: normal;
   font-style: normal;
-  background: linear-gradient(
-                       rgba(20,20,20, .6),
-                       rgba(20,20,20, .6)),
-                       url("/images/Palmwave.gif")
+  background: url("/images/Palmwave.gif")
 }
 
 .casandiego-heading {
