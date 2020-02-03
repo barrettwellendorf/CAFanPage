@@ -13,7 +13,7 @@ padding: 0px;
   background: linear-gradient(
                        rgba(20,20,20, .6),
                        rgba(20,20,20, .6)),
-                       url("./images/Palmwave.gif")
+                       url("/images/Palmwave.gif")
 }
 
 .casandiego-heading {
@@ -24,7 +24,7 @@ padding: 0px;
   background: linear-gradient(
                        rgba(20,20,20, .3),
                        rgba(20,20,20, .3)),
-                       url("./images/Waves.gif");
+                       url("/images/Waves.gif");
 }
 
 .calosangeles-heading {
@@ -36,7 +36,7 @@ padding: 0px;
   background: linear-gradient(
                        rgba(20,20,20, .4),
                        rgba(20,20,20, .4)),
-                       url("./images/Sunsetpalms.gif");
+                       url("/images/Sunsetpalms.gif");
 }
 
 .casf-heading {
@@ -47,7 +47,7 @@ padding: 0px;
   background: linear-gradient(
                        rgba(20,20,20, .5),
                        rgba(20,20,20, .5)),
-                       url("./images/SFFog.gif")
+                       url("/images/SFFog.gif")
 }
 
 .fixed-position {
